@@ -28,7 +28,7 @@ https://github.com/othneildrew/Best-README-Template/blob/master/README.md
     <br />
     <br />
     ·
-    <a href=https://github.com/fedgut/mv-ruby-01-bubble/issues">Report Bug</a>
+    <a href="https://github.com/fedgut/mv-ruby-01-bubble/issues">Report Bug</a>
     ·
     <a href="https://github.com/fedgut/mv-ruby-01-bubble/issues">Request Feature</a>
     .
