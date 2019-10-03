@@ -24,16 +24,15 @@ https://github.com/othneildrew/Best-README-Template/blob/master/README.md
   <h3 align="center"></h3>
 
   <p align="center">
-    A Bootstrap like 12 columns responsive framework.
+    A Bubble sort built using Ruby
     <br />
     <br />
-    <a href="https://ferreirati.github.io/mv-08-htmlcss-framework/src/">View Demo</a>
     ·
-    <a href="https://github.com/ferreirati/mv-08-htmlcss-framework/issues">Report Bug</a>
+    <a href=https://github.com/fedgut/mv-ruby-01-bubble/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ferreirati/mv-08-htmlcss-framework/issues">Request Feature</a>
+    <a href="https://github.com/fedgut/mv-ruby-01-bubble/issues">Request Feature</a>
     .
-    <a href="https://www.theodinproject.com/courses/html5-and-css3/lessons/design-your-own-grid-based-framework">Assignment from The Odin Project</a>
+    <a href="https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks">Assignment from The Odin Project</a>
   </p>
 </p>
 
@@ -61,7 +60,7 @@ This is a bubble sort algorithm built in Ruby
 
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
 * [Ruby](https://www.ruby-lang.org)
 * [VS Code](https://code.visualstudio.com/)
 
@@ -86,7 +85,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/fedgut/mv-ruby-01-bubble/issues) for a list of proposed features (and known issues).
 
 
 
@@ -115,7 +114,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/fedgut/mv-ruby-01-bubble](https://github.com/fedgut/mv-ruby-01-bubble)
 
-- **Eduardo Gutierrez** - [@yirano](https://github.com/fedgut)
+- **Eduardo Gutierrez** - [@fedgut](https://github.com/fedgut)
 - **Tiago Ferreira** - [@ferreirati](https://github.com/ferreirati)
 
 
