@@ -14,4 +14,21 @@ def bubble_sort(array)
   array_
 end
 
-puts bubble_sort [5, 4, 3, 2, 1, 0]
+def bubble_sort_by(arr)
+  array_ = arr
+  array_.size.times do |i|
+    (array_.size - i).times do |j|
+      next unless array_[j + 1]
+
+      order = yield(array_[j], array_[j + 1])
+      array_[j], array_[j + 1] = array_[j + 1], array_[j] if order.positive? # swap elements
+    end
+  end
+  array_
+end
+
+newarr = bubble_sort_by %w[hi hello hey] do |left, right|
+  left.length - right.length
+end
+
+puts newarr
