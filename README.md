@@ -117,8 +117,7 @@ Project Link: [https://github.com/fedgut/mv-ruby-01-bubble](https://github.com/f
 - **Eduardo Gutierrez** - [@fedgut](https://github.com/fedgut)
 - **Tiago Ferreira** - [@ferreirati](https://github.com/ferreirati)
 
-
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tiagoit-dev/) or drop me a line at <tiagoitferreira@gmail.com>.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
